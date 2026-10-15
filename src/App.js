@@ -416,7 +416,7 @@ export default function App() {
               </span>
               <span className="font-mono text-[10px] text-zinc-400 flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-                Available for roles
+                OPEN TO OPPORTUNITIES
               </span>
             </div>
           </a>
